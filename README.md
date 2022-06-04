@@ -19,7 +19,8 @@ npm run build
 ```
 npm run lint
 ```
-
+### ESLINT to Work Well
+./node_modules/.bin/eslint --init
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
@@ -28,3 +29,4 @@ Input password does not know
 it is size when modal not show up,
 In basket , put condition which number of available product
 must be less than quantity
+
